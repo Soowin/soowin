@@ -1,4 +1,4 @@
-![rainbowcat](./rainbowcat.gif)
+![rainbowcat](https://github.com/Soowin/soowin/raw/master/rainbowcat.gif)
 
 <!--
 **Soowin/soowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
